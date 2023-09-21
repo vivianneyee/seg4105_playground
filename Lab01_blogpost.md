@@ -27,3 +27,8 @@ over the product as a whole, and has more short term duties as a project’s tim
   Both the product manager and the project manager play crucial roles in software development. Oftentimes, the terms are used 
 interchangeably but these two roles differ in their timelines, authority, and duties within the company. Product managers are more 
 focused on the overall vision of the company, and project managers are focused on the outcomes of specific projects. 
+
+#### References
+Product manager vs. project manager: What’s the difference? Coursera. (n.d.). https://www.coursera.org/articles/product-manager-vs-project-manager 
+
+Asana, T. (2022b, October 15). Product manager vs. project manager: What to know [2023] • asana. https://asana.com/resources/product-manager-vs-project-manager 
